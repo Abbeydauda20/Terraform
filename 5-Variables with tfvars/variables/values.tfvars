@@ -1,6 +1,6 @@
 # Below are the values to the variables
-ami_id="ami-098e42ae54c764c35"
+ami_id="ami-xxxxxxxxxx"
 
-instance_type="t2.micro"
+instance_type="xxxxxxxx"
 
-ec2_name_tag="variablestestec2"
+ec2_name_tag="xxxxxxxxx"
